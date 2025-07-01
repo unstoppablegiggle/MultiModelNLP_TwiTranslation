@@ -28,4 +28,7 @@ The system:
 
 - Set up a conda environment using the provided .yml file
 - Run the server (note the models do need a bit of headspace from the GPU)
-- run the app (Dev mode on for Android)
+- downlaod and run the app (Dev mode on for Android)
+
+It should be noted the app sets off google's malware detection, I promise with all my heart it's **not** a virus,
+but as with anything on the internet please use your best judgement.
